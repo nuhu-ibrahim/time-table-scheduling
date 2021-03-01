@@ -10,5 +10,5 @@ ii.	To run the executable jar file in the /dist folder, you need to install a JD
 
 ## Credits to Pranav Khurana for some genetic algorithms that became very useful in development of this project 
 
-
-
+## Thank you
+If you find this code interesting or useful, kindly click on the like button and follow me for more.
